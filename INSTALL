@@ -1,9 +1,9 @@
-Building Litecoin
+Building Digitalshekel
 
-See doc/readme-qt.rst for instructions on building Litecoin-Qt,
+See doc/readme-qt.rst for instructions on building Digitalshekel-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Litecoin.
+implementation of Digitalshekel.
 
 See doc/build-*.txt for instructions on building litecoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Litecoin.
+implementation of Digitalshekel.
