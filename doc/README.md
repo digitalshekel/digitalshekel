@@ -26,9 +26,9 @@ You need the Qt4 run-time libraries to run Digitalshekel-Qt. On Debian or Ubuntu
 Unpack the files into a directory and run:
 
 - bin/32/digitalshekel-qt (GUI, 32-bit)
-- bin/32/litecoind (headless, 32-bit)
+- bin/32/digitalshekeld (headless, 32-bit)
 - bin/64/digitalshekel-qt (GUI, 64-bit)
-- bin/64/litecoind (headless, 64-bit)
+- bin/64/digitalshekeld (headless, 64-bit)
 
 See the documentation at the [Digitalshekel Wiki](http://digitalshekel.info)
 for help and more information.

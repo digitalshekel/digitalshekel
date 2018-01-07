@@ -86,4 +86,4 @@ MSYS shell:
 
 	cd \digitalshekel\src
 	mingw32-make -f makefile.mingw
-	strip litecoind.exe
+	strip digitalshekeld.exe

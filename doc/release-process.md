@@ -49,7 +49,7 @@ Release Process
 	./bin/gbuild ../digitalshekel/contrib/gitian-descriptors/qt-win32.yml
 	mv build/out/qt*.zip inputs/
 
- Build litecoind and digitalshekel-qt on Linux32, Linux64, and Win32:
+ Build digitalshekeld and digitalshekel-qt on Linux32, Linux64, and Win32:
   
 	./bin/gbuild --commit digitalshekel=v${VERSION} ../digitalshekel/contrib/gitian-descriptors/gitian.yml
 	./bin/gsign --signer $SIGNER --release ${VERSION} --destination ../gitian.sigs/ ../digitalshekel/contrib/gitian-descriptors/gitian.yml

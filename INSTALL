@@ -4,6 +4,6 @@ See doc/readme-qt.rst for instructions on building Digitalshekel-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of Digitalshekel.
 
-See doc/build-*.txt for instructions on building litecoind,
+See doc/build-*.txt for instructions on building digitalshekeld,
 the intended-for-services, no-graphical-interface, reference
 implementation of Digitalshekel.

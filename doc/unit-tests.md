@@ -1,7 +1,7 @@
-Compiling/running litecoind unit tests
+Compiling/running digitalshekeld unit tests
 ------------------------------------
 
-litecoind unit tests are in the `src/test/` directory; they
+digitalshekeld unit tests are in the `src/test/` directory; they
 use the Boost::Test unit-testing framework.
 
 To compile and run the tests:
